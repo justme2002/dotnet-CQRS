@@ -1,0 +1,12 @@
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\bin\Debug\net6.0\Domain.dll
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\Domain.dll
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\Associate_days\CQRS_event_sourcing\cqrs\cqrs\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
